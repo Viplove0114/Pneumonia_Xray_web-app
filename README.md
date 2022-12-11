@@ -1,7 +1,5 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/rppradhan08/pneumonia-detection)
-![GitHub forks](https://img.shields.io/github/forks/rppradhan08/pneumonia-detection?color=green)
-![contributors-shield](https://img.shields.io/github/contributors/rppradhan08/pneumonia-detection)
-[![LinkedIn][linkedin-shield]](https://in.linkedin.com/in/raj-praveen-pradhan-306625101)
+
+[![LinkedIn][linkedin-shield]](https://in.linkedin.com/in/viplove-thakran-a64252209)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
@@ -15,12 +13,12 @@
   <p align="center">
     Pneumonia Detection using CNN
     <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Viplove0114/Pneumonia_Xray_web-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rppradhan08/pneumonia-detection">View Demo</a>
+    <a href="https://github.com/Viplove0114/Pneumonia_Xray_web-app">View Demo</a>
     ·
-    <a href="https://github.com/rppradhan08/pneumonia-detection/issues">Report Bug</a>
+    <a href="https://github.com/Viplove0114/Pneumonia_Xray_web-app/issues">Report Bug</a>
   </p>
 </p>
 
@@ -47,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/rppradhan08/pneumonia-detection/master/images/person1661_virus_2872.jpeg" height="250px" width="300px">
 </p>
 This project uses <a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia">Chest X-Ray dataset</a> from kaggle.
-The dataset is organized into 3 folders (train, val & test) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). These images are used for building an CNN model using keras to detect pneumonia in patients based on X-ray reports. After model building the best performing model is used to build a flask base web application.
+The dataset is organized into 3 folders (train, val & test) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). These images are used for building an CNN model with 5 layers using keras to detect pneumonia in patients based on X-ray reports. After model building the best performing model with accuracy 92% is used to build a flask base web application.
 
 ### Steps involved
 
@@ -112,6 +110,5 @@ To run this application firstly execute `python app.py`, after which the flask b
 
 ## Contact
 
-Raj Praveen Pradhan - [LinkedIn](https://in.linkedin.com/in/raj-praveen-pradhan-306625101)
+Viplove Thakran - [LinkedIn](https://in.linkedin.com/in/viplove-thakran-a64252209)
 
-Kaggle Kernel: [https://www.kaggle.com/rajpraveenpradhan/keras-based-cnn-model-for-pneumonia-detection](https://www.kaggle.com/rajpraveenpradhan/keras-based-cnn-model-for-pneumonia-detection)
