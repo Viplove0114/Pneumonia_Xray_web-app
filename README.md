@@ -64,6 +64,9 @@ Following are the tools/frameworks used in developing the application:
 - [Flask](https://palletsprojects.com/p/flask/)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+- [Tensorflow](https://www.tensorflow.org/)
+
+Note - If you getting tensorflow errors Please use Tensorflow==2.5.0
 
 ## Getting Started
 
